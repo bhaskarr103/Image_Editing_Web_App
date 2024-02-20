@@ -1,0 +1,11 @@
+body {
+    background-image: url('3135763.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: greenyellow;
+    font-style: italic;
+}
+
+h1, h2, h3, p {
+    color: red; /* Font color for headings and paragraphs */
+}
